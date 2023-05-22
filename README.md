@@ -19,3 +19,7 @@ This is a simple JavaScript page that displays two dice images and allows you to
 ## Live Demo
 
 You can see a live demo of the Dice JavaScript Page [here](https://jd-r0driguez.github.io/simple-javascript-dice/).
+
+## Credits
+
+- This project was developed as part of the The Odin Project - Java Fundamentals.
